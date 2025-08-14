@@ -18,20 +18,6 @@ The insights can help **banks, fintech firms, and regulators** improve digital p
 - Detect **high-risk merchant categories and time slots** prone to fraudulent activity.
 - Create **interactive Tableau dashboards** for data storytelling.
 
----
-
-## Dataset
-- **Source**: UPI transaction dataset (aggregated & anonymized for analysis)
-- **Size**: 250,000+ records
-- **Key Columns**:
-  - `Transaction_ID`
-  - `Transaction_Type` (P2P, P2M)
-  - `Transaction_Amount`
-  - `Merchant_Category`
-  - `State`
-  - `User_Age`, `User_Gender`
-  - `Date_Time`
-  - `Fraud_Flag`
 
 ---
 
